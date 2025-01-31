@@ -39,10 +39,10 @@ A Flutter application that provides quick access to HNG internship-related links
 
 
 3. Run the app:
-   flutter run -d chrome
+   flutter run 
 
 📱 Live Demo
-Try the app on Appetize.io:
+Try the app on Appetize.io: https://appetize.io/app/b_umxluezpzqhvj3fid4low36ega
 Web Demo
 
 🤝 Contributing
