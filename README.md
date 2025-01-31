@@ -42,8 +42,7 @@ A Flutter application that provides quick access to HNG internship-related links
    flutter run 
 
 📱 Live Demo
-Try the app on Appetize.io: https://appetize.io/app/b_umxluezpzqhvj3fid4low36ega
-Web Demo
+Try the app on Appetize.io: https://appetize.io/embed/b_nzobhbbbqc5ygosqxzuuts5jcq
 
 🤝 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
